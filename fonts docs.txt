@@ -1,0 +1,17 @@
+*************************************************************
+  <script defer src="/your-path-to-fontawesome/js/brands.js"></script>
+  <script defer src="/your-path-to-fontawesome/js/solid.js"></script>
+  <script defer src="/your-path-to-fontawesome/js/fontawesome.js"></script>
+***************************************************************
+<link href="/your-path-to-fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
+**************************************************************
+<script defer src="/your-path-to-fontawesome/js/all.js"></script> <!--load all styles -->
+**************************************************************
+  <!-- Our project just needs Font Awesome Solid + Brands -->
+  <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
+  <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
+  <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
+
+//Abeltony Prog
+//abeltony03@gmail.com
+//+250783332000
